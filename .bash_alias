@@ -1,0 +1,4 @@
+alias py="python"
+alias cddown="cd ~/Downloads"
+alias cdwww="cd /var/www"
+
