@@ -1,0 +1,2 @@
+# myLinuxAlias
+My basics alias
