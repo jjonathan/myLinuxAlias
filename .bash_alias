@@ -1,3 +1,8 @@
+### PASTE ON .bashrc
+#if [ -f ~/.bash_aliases ]; then
+#. ~/.bash_aliases
+#fi
+
 alias py="python"
 alias cddown="cd ~/Downloads"
 alias cdwww="cd /var/www"
