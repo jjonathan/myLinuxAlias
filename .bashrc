@@ -126,4 +126,4 @@ if [ -f ~/.bash_alias ]; then
 fi
 
 #composer path
-export PATH="$PATH:$HOME/.composer/vendor/bin"
+export PATH="$PATH:$HOME/.config/composer/vendor/bin"
