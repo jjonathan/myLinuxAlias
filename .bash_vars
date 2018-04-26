@@ -1,0 +1,3 @@
+cliphpini="/etc/php/5.6/cli/php.ini"
+apaphpini="/etc/php/5.6/apache2/php.ini"
+
